@@ -16,7 +16,7 @@ A Streamlit application that combines video analysis and web search capabilities
 
 ```bash
 git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd multimodal_ai_agents
+cd ai_agent_tutorials/multimodal_ai_agent
 ```
 2. Install the required dependencies:
 
@@ -35,5 +35,5 @@ GOOGLE_API_KEY=your_api_key_here
 
 5. Run the Streamlit App
 ```bash
-streamlit run multimodal_agent.py
+streamlit run mutimodal_agent.py
 ```
